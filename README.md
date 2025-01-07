@@ -1,4 +1,4 @@
-# Unhloy-C
+# C Star
  C⛤ documentation
 
 Go to 
