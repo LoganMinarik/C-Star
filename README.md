@@ -2,5 +2,5 @@
  C⛤ documentation
 
 Go to 
-https://loganminarik.github.io/Unholy-C/
+https://loganminarik.github.io
 🦊👍
