@@ -1,5 +1,5 @@
-# C Star
- C⛤ documentation
+# C★
+ C★ documentation
 
 Go to 
 https://loganminarik.github.io/C-Star/
