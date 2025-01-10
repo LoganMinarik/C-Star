@@ -5,3 +5,8 @@
 + README
 - Junk
 - Herobrine
+
+1/9/2025
++ Main.C added more code
++ Added icon for the dot file directory 
++ Ran a test on the Make file and made a Hello World Linux execuatble in a terminal ./ run command
